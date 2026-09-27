@@ -16,7 +16,7 @@ DB_CONFIG = {
     "host": "127.0.0.1",
     "port": 3306,
     "user": "jeswes99",
-    "password": "makemeadonut",
+    "password": "**********",
     "database": "porto_taxi_db",
 }
 CSV_PATH = "/Users/jesperwestgaard/Desktop/Øvinger og prosjekter/Store, distribuerte datamengder/Assignment 2/porto.csv"
